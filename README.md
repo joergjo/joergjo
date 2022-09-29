@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.joergjooss.de)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.joergjooss.de)
 ![GitHub followers](https://img.shields.io/github/followers/joergjo?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/joergjooss?style=social)
 ![Connect on LinkedIn](https://img.shields.io/badge/-joergjooss-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/joergjooss/)
