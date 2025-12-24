@@ -7,8 +7,7 @@
 
 I'm a senior cloud solution architect at Microsoft helping customers to build AI and cloud native applications. I use [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) by day, [Go](https://go.dev) by night, and deploy to [Azure](https://azure.microsoft.com/en-us/overview/what-is-azure). 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joergjo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jörg's GitHub stats](https://github-readme-stats.vercel.app/api?username=joergjo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joergjo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
